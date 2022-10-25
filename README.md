@@ -7,6 +7,10 @@ A novel purchasing site interface
 
 I recently develop a habit of reading books, the website from where i bought my book is kind of mid, So I decided to create one for myself, It is actually a testing site.
 
+🔰 What it does
+
+It is interface for online shopping, it tells you about the books name and author, it well responsive for both mobiole and destop.
+
 Give A STAR if you like the project
 
 
