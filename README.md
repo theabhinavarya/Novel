@@ -1,4 +1,4 @@
-# Buy-Novel
+# Novel
 A novel purchasing site interface
 
 <img src="https://i.ibb.co/rkYMfdP/Laptop.png">
